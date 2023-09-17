@@ -5,7 +5,11 @@ The implemented MPC algorithm is derived and explained in this webpage tutorial:
 
 https://aleksandarhaber.com/model-predictive-control-mpc-tutorial-2-unconstrained-solution-for-linear-systems-and-implementation-in-c-from-scratch-by-using-eigen-c-library/
 
-Explanation of posted files:
+The YouTube tutorial explaining the derivation and implementation is given below:
+
+https://www.youtube.com/watch?v=fgNz1RE2DG4
+
+Explanation of the posted files:
 
 - "ModelPredictiveController.h" is the header file of the class that implements the MPC algorithm
 - "ModelPredictiveController.cpp" is the implementation file of the class that implements the MPC algorithm
