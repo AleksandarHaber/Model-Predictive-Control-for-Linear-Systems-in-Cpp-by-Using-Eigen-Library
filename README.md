@@ -9,6 +9,8 @@ The YouTube tutorial explaining the derivation and implementation is given below
 
 https://www.youtube.com/watch?v=fgNz1RE2DG4
 
+TO DO AND TO IMPROVE: PASS BY CONST REFERENCE FOR SPEED.
+
 Explanation of the posted files:
 
 - "ModelPredictiveController.h" is the header file of the class that implements the MPC algorithm
