@@ -1,6 +1,14 @@
 # Model-Predictive-Control-for-Linear-Systems-in-Cpp-by-Using-Eigen-Library
 
-FIRST, READ THE LICENSE AT THE END OF THIS FILE
+IMPORTANT NOTE: The code files are released under "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+International Public License (CC BY-NC-ND 4.0.)"  
+
+**Brief explanation of the license (read the complete license):** 
+**Attribution (BY):** You must give appropriate credit and reference to the creator and code (citation). You need to provide a link to the license and link to the code files. 
+**NonCommercial (NC):** You may not use the material for commercial purposes. 
+**NoDerivatives (ND):** You cannot remix, transform, or build upon the material, meaning you can only share the original work without any adaptations. If you plan to use the code for commercial purposes, contact the author at ml.mecheng@gmail.com
+
+
 
 This repository contains C++ files that explain how to implement the Model Predictive Control (MPC) algorithm for linear systems in C++ by using the Eigen C++ matrix library.
 
@@ -24,18 +32,3 @@ Explanation of the posted files:
 - "visualizeResultsPython.py" is the Python file used to plot the results. This file reads the saved csv files and it plots the controlled output trajectory, desired trajectory, and applied control inputs. One of the generated graphs is shown below.
 
   ![My Image](controlledOutputsPulseCpp.png)
-
-
-LICENSE: 
-THIS IS NOT FREE SOFTWARE AND CODE. IF YOU WANT TO USE THIS CODE IN THE COMMERCIAL SETTING OR ACADEMIC SETTING, THAT IS, IF YOU WORK FOR A COMPANY OR IF YOU ARE AN INDEPENDENT CONSULTANT AND IF YOU WANT TO USE THIS CODE OR IF YOU ARE ACADEMIC RESEARCHER OR STUDENT, THEN WITHOUT MY PERMISSION AND WITHOUT PAYING THE PROPER FEE, YOU ARE NOT ALLOWED TO USE THIS CODE. YOU CAN CONTACT ME AT
-
-aleksandar.haber@gmail.com
-
-TO INFORM YOURSELF ABOUT THE LICENSE OPTIONS AND FEES FOR USING THIS CODE.
-ALSO, IT IS NOT ALLOWED TO 
-(1) MODIFY THIS CODE IN ANY WAY WITHOUT MY PERMISSION.
-(2) INTEGRATE THIS CODE IN OTHER PROJECTS WITHOUT MY PERMISSION.
-
- DELIBERATE OR INDELIBERATE VIOLATIONS OF THIS LICENSE WILL INDUCE LEGAL ACTIONS AND LAWSUITS. 
-
-
